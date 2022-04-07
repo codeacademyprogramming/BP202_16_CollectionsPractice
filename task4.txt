@@ -1,0 +1,8 @@
+MyList class
+ - Bu classdan obyekt yaradib obyekt uzerinden indexler 
+   vasitesi ile deyer set ve get ede bilmek olsun
+   Obyektin icindeki deyerler generic olsun
+
+   a
+   a[0] = "bhvhv"
+   var val = a[0]

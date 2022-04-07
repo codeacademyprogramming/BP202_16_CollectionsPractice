@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\bin\Debug\netcoreapp3.1\Company.exe
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\bin\Debug\netcoreapp3.1\Company.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\bin\Debug\netcoreapp3.1\Company.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\bin\Debug\netcoreapp3.1\Company.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\bin\Debug\netcoreapp3.1\Company.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\obj\Debug\netcoreapp3.1\Company.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\obj\Debug\netcoreapp3.1\Company.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\obj\Debug\netcoreapp3.1\Company.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\obj\Debug\netcoreapp3.1\Company.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\obj\Debug\netcoreapp3.1\Company.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\obj\Debug\netcoreapp3.1\Company.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\Company\obj\Debug\netcoreapp3.1\Company.genruntimeconfig.cache

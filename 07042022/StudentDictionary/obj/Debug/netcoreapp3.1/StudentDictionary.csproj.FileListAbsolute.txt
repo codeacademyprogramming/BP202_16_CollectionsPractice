@@ -1,0 +1,14 @@
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\obj\Debug\netcoreapp3.1\StudentDictionary.csproj.AssemblyReference.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\obj\Debug\netcoreapp3.1\StudentDictionary.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\obj\Debug\netcoreapp3.1\StudentDictionary.AssemblyInfoInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\obj\Debug\netcoreapp3.1\StudentDictionary.AssemblyInfo.cs
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\obj\Debug\netcoreapp3.1\StudentDictionary.csproj.CoreCompileInputs.cache
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\bin\Debug\netcoreapp3.1\StudentDictionary.exe
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\bin\Debug\netcoreapp3.1\StudentDictionary.deps.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\bin\Debug\netcoreapp3.1\StudentDictionary.runtimeconfig.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\bin\Debug\netcoreapp3.1\StudentDictionary.runtimeconfig.dev.json
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\bin\Debug\netcoreapp3.1\StudentDictionary.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\bin\Debug\netcoreapp3.1\StudentDictionary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\obj\Debug\netcoreapp3.1\StudentDictionary.dll
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\obj\Debug\netcoreapp3.1\StudentDictionary.pdb
+C:\Users\Eagha\Desktop\CodeLessons\BP202\19. 07042022\07042022\StudentDictionary\obj\Debug\netcoreapp3.1\StudentDictionary.genruntimeconfig.cache

@@ -1,0 +1,7 @@
+Student class
+ - No
+ - FullName
+ - Exams - dictionary (exam name,point)
+ - AddExam()
+ - GetExamResult() - by key
+ - GetExamAvg()

@@ -1,0 +1,31 @@
+{
+  "Version": 1,
+  "ProjectMap": {
+    "b6f0d9ce-54cc-425f-921e-3b161afbf8fb": {
+      "ProjectGuid": "b6f0d9ce-54cc-425f-921e-3b161afbf8fb",
+      "DisplayName": "StudentDictionary",
+      "ColorIndex": 0
+    },
+    "2d2d00c9-e672-4ccb-928a-4612ad948a11": {
+      "ProjectGuid": "2d2d00c9-e672-4ccb-928a-4612ad948a11",
+      "DisplayName": "ClassLibrary",
+      "ColorIndex": 1
+    },
+    "0d91c1e8-e51a-4431-9613-a264e36cf5d1": {
+      "ProjectGuid": "0d91c1e8-e51a-4431-9613-a264e36cf5d1",
+      "DisplayName": "GenericTask",
+      "ColorIndex": 2
+    },
+    "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3": {
+      "ProjectGuid": "a2fe74e1-b743-11d0-ae1a-00a0c90fffc3",
+      "DisplayName": "Miscellaneous Files",
+      "ColorIndex": -1
+    },
+    "bcc94fcf-78ac-447c-a72e-65b68fbf0e5a": {
+      "ProjectGuid": "bcc94fcf-78ac-447c-a72e-65b68fbf0e5a",
+      "DisplayName": "Company",
+      "ColorIndex": 3
+    }
+  },
+  "NextColorIndex": 4
+}

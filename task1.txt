@@ -1,0 +1,14 @@
+Student class
+ - FullName
+ - Point
+
+students dictionary yaradirsiniz, icinde key olaraq student nomresi, value 
+olaraq student obyekti saxlayir Layihe run olduqda bize menu cixmalidir
+
+ 1. Student elave et
+ 2. Studentleri goster
+
+ 1 secildikde student obyektini yaradilmasi ucun lazimli datalar daxil edilmelidir,
+ ve student obyekti yarandiqdan sonra key elave edilmelidir hemin studnet obyektini dictionary-e elave etmek ucun
+
+ 2 secildikde dictionarydeki butun Studnetler console-da gosterilir

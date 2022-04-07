@@ -1,0 +1,12 @@
+Employee class
+ - No
+ - FullName
+ - Salary
+
+Department class
+ - Name
+ - Employees
+ - AddEmployee()
+ - RemoveEmployeeByNo()
+ - GetEmployeeByNo()
+ 
